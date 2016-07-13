@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/nagendramca2011/node-express-mysql#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.14.0"
   }
 }
