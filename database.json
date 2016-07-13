@@ -1,0 +1,14 @@
+﻿{
+  "dev": {
+    "driver": "mysql",
+    "user": "nodeapp",
+    "database": "nodeapp",
+	"password": "Nodeapp@123"
+  },
+ 
+  "production": {
+    "driver": "mysql",
+    "user": "root",
+    "database": "myapp"
+  }
+}
