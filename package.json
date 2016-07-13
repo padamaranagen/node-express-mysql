@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/nagendramca2011/node-express-mysql/issues"
   },
-  "homepage": "https://github.com/nagendramca2011/node-express-mysql#readme"
+  "homepage": "https://github.com/nagendramca2011/node-express-mysql#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
