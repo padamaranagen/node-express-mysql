@@ -1,0 +1,25 @@
+{
+  "name": "node-express-mysql",
+  "version": "1.0.0",
+  "description": "Nodejs+Express+Mysql Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagendramca2011/node-express-mysql.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Expressjs",
+    "Angularjs",
+    "Mysql"
+  ],
+  "author": "Nagendra Padamara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagendramca2011/node-express-mysql/issues"
+  },
+  "homepage": "https://github.com/nagendramca2011/node-express-mysql#readme"
+}
